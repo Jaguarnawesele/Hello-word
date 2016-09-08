@@ -1,0 +1,2 @@
+# Hello-word
+Pierwsze repository
